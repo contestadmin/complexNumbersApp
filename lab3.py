@@ -698,5 +698,5 @@ def runTests():
     testListModulo()
     print("All test cases passed!")
 
-#runTests()
+runTests()
 runCommandBasedApplication()
